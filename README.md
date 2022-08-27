@@ -5,5 +5,6 @@ div align="center">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsouloficial&theme=dracula&hide_border=false&&layout=compact"/>
 [![social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/giovannahdesouza)
 [![social](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://Twitter.com/Giovann26162481)
+![Snake animation](https://github.com/dsouloficial/dsouloficial/blob/output/github-contribution-grid-snake.svg)
 
 
